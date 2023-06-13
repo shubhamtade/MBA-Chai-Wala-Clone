@@ -1,4 +1,4 @@
-# MBA-Chai-Wala-Clone
+# MBA Chai Wala Clone
  MBA Chai Wala Clone is a React Vite project replicating the popular "Chai Wala" brand website. It features dynamic sections, video introduction, customizable colors, and responsive design. Built with React components, data management, and SCSS styling.
 This repository contains a clone of the popular website [MBA Chai Wala](https://mba-chai-wala-clone.vercel.app/). It is a simplified version of the original website, built for educational purposes.
 
@@ -67,3 +67,18 @@ Contributions to this project are welcome. If you find any issues or would like 
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your needs.
+
+## Acknowledgments
+
+PikFlex is inspired by various image gallery solutions and aims to provide a lightweight and easy-to-use option for displaying images on the web.
+
+- [Unsplash](https://unsplash.com/) - Sample images used in the gallery.
+- [Vercel](https://vercel.com/) - Hosting platform used to deploy the live website.
+
+## Contact
+
+If you have any questions or inquiries about MBA Chai Wala Clone, you can reach out to the project owner:
+
+- Shubham Tade
+- Email: contact@shubhamtade.in
+- GitHub: [shubhamtade](https://github.com/shubhamtade)
