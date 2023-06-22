@@ -13,13 +13,12 @@
 }
 
 @media screen and (max-width: 820px) {
-
   .franchiseBtn {
     top: unset;
     right: unset;
-  left: 50%;
-  bottom: 1rem;
-  transform: translateX(-50%);
+    left: 50%;
+    bottom: 1rem;
+    transform: translateX(-50%);
     &:hover {
       transform: translateX(-50%) skewX(-10deg);
     }
@@ -53,16 +52,18 @@
 }
 
 @media screen and (max-width: 500px) {
-
-    .section{
-        padding: 2rem;
-        h3{
-            font-size: 40px;
-        }
-        p{
-            font-size: 16px;
-        }
+  .franchiseBtn {
+    font-size: 12px;
+  }
+  .section {
+    padding: 2rem;
+    h3 {
+      font-size: 40px;
     }
+    p {
+      font-size: 16px;
+    }
+  }
   footer {
     padding: 7rem 0;
     grid-template-columns: 1fr;
